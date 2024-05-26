@@ -1,0 +1,66 @@
+main{
+    background-color: #FAD074;
+    margin: 0px;
+}
+main img{
+    border-radius: 20px;
+}
+
+header img{
+    width: 100px; height: 100px;
+    border-radius: 50%;
+}
+header{
+    background-color: #FFA570;
+    font-size: 35px;
+    margin-bottom: 0px;
+    color: #E83100;
+}
+h1{
+    margin: 0;
+    text-align: center;
+}
+h2{
+    margin: 0;
+    text-align: center;
+}
+.cafe img{
+    width: 400px; height: 300px;
+}
+nav{
+    background-color: #FFA570;
+    height: 25px;
+}
+nav a{
+    text-decoration: none;
+    color: #E83100;
+   margin-left: 10px;
+   margin-right: 10px;
+   padding-left: 5px;
+   padding-right: 5px;
+    border: 1px solid #E83100 ;
+    border-radius: 20px;
+}
+.dom{
+    position: fixed;
+}
+.dom a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    background-color: #2D4628;
+    margin: 0;
+    color: white;
+}
+.photo{
+        display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: space-around;
+}
+.photo img{
+    margin: 5px;
+}
+
